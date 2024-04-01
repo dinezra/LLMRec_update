@@ -1,0 +1,364 @@
+2024-03-31 20:02:11,864 - INFO - ================================================================================
+2024-03-31 20:02:11,864 - INFO - 							Start process movies in batch 5
+2024-03-31 20:02:11,865 - INFO - ================================================================================
+2024-03-31 20:02:30,641 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,220 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,297 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,380 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,464 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,545 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,627 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,709 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,799 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,857 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,925 - INFO - Total movies process: 0 
+2024-03-31 20:02:38,990 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,089 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,150 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,261 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,362 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,434 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,513 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,613 - INFO - Total movies process: 0 
+2024-03-31 20:02:39,734 - INFO - Total movies process: 0 
+2024-03-31 20:03:05,858 - INFO - ================================================================================
+2024-03-31 20:03:05,858 - INFO - 							Start process movies in batch 5
+2024-03-31 20:03:05,858 - INFO - ================================================================================
+2024-03-31 20:03:15,111 - INFO - Total movies process: 0 
+2024-03-31 20:03:23,709 - INFO - Total movies process: 0 
+2024-03-31 20:03:23,788 - INFO - Total movies process: 0 
+2024-03-31 20:03:23,873 - INFO - Total movies process: 0 
+2024-03-31 20:03:23,957 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,049 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,143 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,230 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,313 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,397 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,479 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,526 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,604 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,684 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,760 - INFO - Total movies process: 0 
+2024-03-31 20:03:24,890 - INFO - Total movies process: 0 
+2024-03-31 20:03:25,015 - INFO - Total movies process: 0 
+2024-03-31 20:04:07,716 - INFO - ================================================================================
+2024-03-31 20:04:07,717 - INFO - 							Start process movies in batch 5
+2024-03-31 20:04:07,717 - INFO - ================================================================================
+2024-03-31 20:04:15,852 - INFO - Total movies process: 0 
+2024-03-31 20:04:18,702 - INFO - Total movies process: 0 
+2024-03-31 20:04:18,802 - INFO - Total movies process: 0 
+2024-03-31 20:04:18,926 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,047 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,121 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,170 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,280 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,433 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,529 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,602 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,691 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,790 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,858 - INFO - Total movies process: 0 
+2024-03-31 20:04:19,990 - INFO - Total movies process: 0 
+2024-03-31 20:04:20,071 - INFO - Total movies process: 0 
+2024-03-31 20:04:20,160 - INFO - Total movies process: 0 
+2024-03-31 20:04:42,914 - INFO - ================================================================================
+2024-03-31 20:04:42,914 - INFO - 							Start process movies in batch 5
+2024-03-31 20:04:42,915 - INFO - ================================================================================
+2024-03-31 20:05:11,527 - INFO - Total movies process: 0 
+2024-03-31 20:05:15,877 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,021 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,092 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,176 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,248 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,318 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,411 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,536 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,631 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,686 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,852 - INFO - Total movies process: 0 
+2024-03-31 20:05:16,922 - INFO - Total movies process: 0 
+2024-03-31 20:05:17,017 - INFO - Total movies process: 0 
+2024-03-31 20:05:17,134 - INFO - Total movies process: 0 
+2024-03-31 20:05:17,216 - INFO - Total movies process: 0 
+2024-03-31 20:05:17,340 - INFO - Total movies process: 0 
+2024-03-31 20:05:17,425 - INFO - Total movies process: 0 
+2024-03-31 20:05:17,551 - INFO - Total movies process: 0 
+2024-03-31 20:05:59,237 - INFO - ================================================================================
+2024-03-31 20:05:59,238 - INFO - 							Start process movies in batch 5
+2024-03-31 20:05:59,238 - INFO - ================================================================================
+2024-03-31 20:06:06,705 - INFO - Total movies process: 0 
+2024-03-31 20:06:08,515 - INFO - Total movies process: 0 
+2024-03-31 20:06:08,654 - INFO - Total movies process: 0 
+2024-03-31 20:06:08,821 - INFO - Total movies process: 0 
+2024-03-31 20:06:08,918 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,055 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,236 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,313 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,377 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,462 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,539 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,680 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,764 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,847 - INFO - Total movies process: 0 
+2024-03-31 20:06:09,939 - INFO - Total movies process: 0 
+2024-03-31 20:06:33,110 - INFO - ================================================================================
+2024-03-31 20:06:33,110 - INFO - 							Start process movies in batch 5
+2024-03-31 20:06:33,111 - INFO - ================================================================================
+2024-03-31 20:06:44,029 - INFO - Total movies process: 0 
+2024-03-31 20:06:45,961 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,049 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,173 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,317 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,427 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,513 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,637 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,733 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,847 - INFO - Total movies process: 0 
+2024-03-31 20:06:46,940 - INFO - Total movies process: 0 
+2024-03-31 20:06:47,025 - INFO - Total movies process: 0 
+2024-03-31 20:06:47,105 - INFO - Total movies process: 0 
+2024-03-31 20:06:47,180 - INFO - Total movies process: 0 
+2024-03-31 20:06:47,270 - INFO - Total movies process: 0 
+2024-03-31 20:07:11,350 - INFO - ================================================================================
+2024-03-31 20:07:11,350 - INFO - 							Start process movies in batch 5
+2024-03-31 20:07:11,351 - INFO - ================================================================================
+2024-03-31 20:07:17,863 - INFO - Total movies process: 0 
+2024-03-31 20:07:19,757 - INFO - Total movies process: 0 
+2024-03-31 20:07:19,909 - INFO - Total movies process: 0 
+2024-03-31 20:07:19,987 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,065 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,136 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,203 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,250 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,322 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,411 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,462 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,580 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,712 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,796 - INFO - Total movies process: 0 
+2024-03-31 20:07:20,900 - INFO - Total movies process: 0 
+2024-03-31 20:07:21,051 - INFO - Total movies process: 0 
+2024-03-31 20:07:21,116 - INFO - Total movies process: 0 
+2024-03-31 20:07:21,195 - INFO - Total movies process: 0 
+2024-03-31 20:07:21,278 - INFO - Total movies process: 0 
+2024-03-31 20:07:21,370 - INFO - Total movies process: 0 
+2024-03-31 20:07:42,256 - INFO - ================================================================================
+2024-03-31 20:07:42,257 - INFO - 							Start process movies in batch 5
+2024-03-31 20:07:42,257 - INFO - ================================================================================
+2024-03-31 20:07:44,294 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,022 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,158 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,218 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,289 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,372 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,457 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,549 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,656 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,736 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,815 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,915 - INFO - Total movies process: 0 
+2024-03-31 20:07:46,990 - INFO - Total movies process: 0 
+2024-03-31 20:07:47,076 - INFO - Total movies process: 0 
+2024-03-31 20:07:47,133 - INFO - Total movies process: 0 
+2024-03-31 20:07:47,213 - INFO - Total movies process: 0 
+2024-03-31 20:07:47,314 - INFO - Total movies process: 0 
+2024-03-31 20:07:47,454 - INFO - Total movies process: 0 
+2024-03-31 20:08:09,876 - INFO - ================================================================================
+2024-03-31 20:08:09,876 - INFO - 							Start process movies in batch 5
+2024-03-31 20:08:09,876 - INFO - ================================================================================
+2024-03-31 20:08:25,855 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,069 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,138 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,213 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,291 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,360 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,493 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,678 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,754 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,843 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,909 - INFO - Total movies process: 0 
+2024-03-31 20:08:28,976 - INFO - Total movies process: 0 
+2024-03-31 20:08:29,089 - INFO - Total movies process: 0 
+2024-03-31 20:08:29,170 - INFO - Total movies process: 0 
+2024-03-31 20:08:29,250 - INFO - Total movies process: 0 
+2024-03-31 20:08:29,330 - INFO - Total movies process: 0 
+2024-03-31 20:08:29,417 - INFO - Total movies process: 0 
+2024-03-31 20:08:29,545 - INFO - Total movies process: 0 
+2024-03-31 20:08:29,649 - INFO - Total movies process: 0 
+2024-03-31 20:08:57,119 - INFO - ================================================================================
+2024-03-31 20:08:57,120 - INFO - 							Start process movies in batch 5
+2024-03-31 20:08:57,120 - INFO - ================================================================================
+2024-03-31 20:09:06,257 - INFO - Total movies process: 0 
+2024-03-31 20:09:07,643 - INFO - Total movies process: 0 
+2024-03-31 20:09:07,724 - INFO - Total movies process: 0 
+2024-03-31 20:09:07,807 - INFO - Total movies process: 0 
+2024-03-31 20:09:07,892 - INFO - Total movies process: 0 
+2024-03-31 20:09:07,975 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,039 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,193 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,308 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,393 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,474 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,587 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,659 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,736 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,818 - INFO - Total movies process: 0 
+2024-03-31 20:09:08,908 - INFO - Total movies process: 0 
+2024-03-31 20:09:09,041 - INFO - Total movies process: 0 
+2024-03-31 20:09:48,832 - INFO - ================================================================================
+2024-03-31 20:09:48,833 - INFO - 							Start process movies in batch 5
+2024-03-31 20:09:48,833 - INFO - ================================================================================
+2024-03-31 20:10:30,911 - INFO - ================================================================================
+2024-03-31 20:10:30,911 - INFO - 							Start process movies in batch 5
+2024-03-31 20:10:30,911 - INFO - ================================================================================
+2024-03-31 20:10:36,195 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,097 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,211 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,299 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,378 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,463 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,613 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,688 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,755 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,834 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,917 - INFO - Total movies process: 0 
+2024-03-31 20:10:38,994 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,122 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,250 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,331 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,526 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,637 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,702 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,827 - INFO - Total movies process: 0 
+2024-03-31 20:10:39,894 - INFO - Total movies process: 0 
+2024-03-31 20:11:03,518 - INFO - ================================================================================
+2024-03-31 20:11:03,518 - INFO - 							Start process movies in batch 5
+2024-03-31 20:11:03,518 - INFO - ================================================================================
+2024-03-31 20:11:13,393 - INFO - Total movies process: 0 
+2024-03-31 20:11:16,576 - INFO - Total movies process: 0 
+2024-03-31 20:11:20,343 - INFO - Total movies process: 0 
+2024-03-31 20:11:20,409 - INFO - Total movies process: 0 
+2024-03-31 20:11:20,590 - INFO - Total movies process: 0 
+2024-03-31 20:11:20,719 - INFO - Total movies process: 0 
+2024-03-31 20:11:20,844 - INFO - Total movies process: 0 
+2024-03-31 20:11:20,911 - INFO - Total movies process: 0 
+2024-03-31 20:11:21,006 - INFO - Total movies process: 0 
+2024-03-31 20:11:21,083 - INFO - Total movies process: 0 
+2024-03-31 20:11:21,218 - INFO - Total movies process: 0 
+2024-03-31 20:11:21,303 - INFO - Total movies process: 0 
+2024-03-31 20:11:21,471 - INFO - Total movies process: 0 
+2024-03-31 20:11:21,568 - INFO - Total movies process: 0 
+2024-03-31 20:11:23,298 - INFO - Total movies process: 1 
+2024-03-31 20:11:23,505 - INFO - Total movies process: 1 
+2024-03-31 20:11:23,584 - INFO - Total movies process: 1 
+2024-03-31 20:14:08,175 - INFO - ================================================================================
+2024-03-31 20:14:08,175 - INFO - 							Start process movies in batch 5
+2024-03-31 20:14:08,175 - INFO - ================================================================================
+2024-03-31 20:14:08,753 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,259 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,395 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,537 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,599 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,686 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,767 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,856 - INFO - Total movies process: 0 
+2024-03-31 20:14:22,949 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,018 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,102 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,183 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,265 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,348 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,404 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,478 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,606 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,709 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,776 - INFO - Total movies process: 0 
+2024-03-31 20:14:23,843 - INFO - Total movies process: 0 
+2024-03-31 20:14:51,155 - INFO - ================================================================================
+2024-03-31 20:14:51,156 - INFO - 							Start process movies in batch 5
+2024-03-31 20:14:51,158 - INFO - ================================================================================
+2024-03-31 20:14:54,947 - INFO - Total movies process: 0 
+2024-03-31 20:14:59,578 - INFO - Total movies process: 0 
+2024-03-31 20:14:59,682 - INFO - Total movies process: 0 
+2024-03-31 20:14:59,761 - INFO - Total movies process: 0 
+2024-03-31 20:14:59,842 - INFO - Total movies process: 0 
+2024-03-31 20:14:59,932 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,068 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,152 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,251 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,362 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,473 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,573 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,619 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,694 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,786 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,831 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,889 - INFO - Total movies process: 0 
+2024-03-31 20:15:00,957 - INFO - Total movies process: 0 
+2024-03-31 20:15:01,025 - INFO - Total movies process: 0 
+2024-03-31 20:15:01,134 - INFO - Total movies process: 0 
+2024-03-31 20:15:22,323 - INFO - ================================================================================
+2024-03-31 20:15:22,323 - INFO - 							Start process movies in batch 5
+2024-03-31 20:15:22,324 - INFO - ================================================================================
+2024-03-31 20:15:46,676 - INFO - Total movies process: 0 
+2024-03-31 20:15:56,951 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,089 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,187 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,252 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,312 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,379 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,471 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,518 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,621 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,690 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,816 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,897 - INFO - Total movies process: 0 
+2024-03-31 20:15:57,979 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,068 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,157 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,225 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,295 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,398 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,521 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,623 - INFO - Total movies process: 0 
+2024-03-31 20:15:58,740 - INFO - Total movies process: 0 
+2024-03-31 20:16:25,038 - INFO - ================================================================================
+2024-03-31 20:16:25,038 - INFO - 							Start process movies in batch 5
+2024-03-31 20:16:25,039 - INFO - ================================================================================
+2024-03-31 20:16:48,917 - INFO - Total movies process: 0 
+2024-03-31 20:16:50,429 - INFO - Total movies process: 0 
+2024-03-31 20:16:50,545 - INFO - Total movies process: 0 
+2024-03-31 20:16:50,653 - INFO - Total movies process: 0 
+2024-03-31 20:16:50,711 - INFO - Total movies process: 0 
+2024-03-31 20:16:50,800 - INFO - Total movies process: 0 
+2024-03-31 20:16:50,937 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,022 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,104 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,201 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,321 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,369 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,445 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,529 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,610 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,705 - INFO - Total movies process: 0 
+2024-03-31 20:16:51,791 - INFO - Total movies process: 0 
+2024-03-31 20:17:15,139 - INFO - ================================================================================
+2024-03-31 20:17:15,140 - INFO - 							Start process movies in batch 5
+2024-03-31 20:17:15,141 - INFO - ================================================================================
+2024-03-31 20:17:22,463 - INFO - Total movies process: 0 
+2024-03-31 20:17:23,872 - INFO - Total movies process: 0 
+2024-03-31 20:17:23,944 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,036 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,117 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,274 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,316 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,375 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,462 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,545 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,668 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,796 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,879 - INFO - Total movies process: 0 
+2024-03-31 20:17:24,959 - INFO - Total movies process: 0 
+2024-03-31 20:17:25,114 - INFO - Total movies process: 0 
+2024-03-31 20:17:25,225 - INFO - Total movies process: 0 
+2024-03-31 20:17:25,310 - INFO - Total movies process: 0 
